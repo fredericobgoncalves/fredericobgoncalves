@@ -31,9 +31,12 @@ Here are some ideas to get you started:
   
   
   
-- 🔭 I’m currently working on Java and Javascript
-- 🌱 I’m currently learning Python
-- 💬 Ask me about anything
+- 🔭 I’m currently working on <img alt="Fred-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> && <img alt="Fred-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ 
+  
+- 🌱 I’m currently learning <img alt="Fred-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
+- <a href="mailto:fredericogoncalves3@gmail.com">💬</a> Ask me about anything
 - 📫 How to reach me: Links above
 - 😄 Pronouns: Fred
 
